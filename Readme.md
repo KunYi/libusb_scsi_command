@@ -1,5 +1,5 @@
 ***
-Just for demo How to use libusb to send SCSI Vendor command to Mass storage device
+Just for demo How to use libusb for send SCSI Vendor command with Mass storage device
 
 **
 limition: only vaild Bulk only device
